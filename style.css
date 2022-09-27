@@ -100,7 +100,7 @@ h4 {
     color: white;
 }
 
-.remained {
+#remained {
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -108,7 +108,7 @@ h4 {
     flex: 1;
 }
 
-.percentage {
+#percentage {
     background-color: var(--full-color);
     width: 100%;
     font-size: 30px;
